@@ -1,0 +1,17 @@
+/* Top level styles */
+
+body {
+	background: #EEE;
+	font-family: Segoe UI;
+	margin:0px;
+	padding:0px;
+	font-size:13px;
+}
+
+#app{
+	margin: 0 auto;
+}
+
+li{
+	list-style-type: none;	
+}
